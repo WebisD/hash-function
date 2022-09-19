@@ -6,4 +6,4 @@ Integrantes:
 
 ## Resultados
 
-![](images\results.png)
+![](images/results.png)
